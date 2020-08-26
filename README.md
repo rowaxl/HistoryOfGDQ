@@ -4,6 +4,8 @@
 Web page for introducing speedrun event, Games Done Quick.
 WMAD401 Project1
 
+## [Deployed](https://rowaxl.github.io/HistoryOfGDQ/index.html)
+
 ## [Wireframe](https://www.figma.com/file/hmZ96IKfsm5rOBfa46FDtG/History-of-GDQ?node-id=0%3A1)
 
 ## Pages
