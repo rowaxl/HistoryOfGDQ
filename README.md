@@ -17,3 +17,17 @@ WMAD401 Project1
   - Popular runs with flex display
 - stats
   - Graph of fund-raised of events.
+
+## Screens
+
+### Desktop (1024px ~)
+![](docs/index_desktop.png)
+
+### Tablet (768 ~ 1024px)
+![](docs/about_tablet.png)
+
+### Mobile (~ 768px)
+![](docs/stats_mobile.png)
+
+### Attention
+Embeded Youtube videos occur error of chrome cast extensions.
